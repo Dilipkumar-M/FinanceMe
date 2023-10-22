@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name= "TestCases">
+    <classes>
+		<!--class name= "SeleniumProject.SeleniumProject.MavenTest1"/-->
+		<class name= "SeleniumProject.SeleniumProject.BankingTest"/> 		
+    </classes>  
+  </test>
+</suite> <!-- Suite -->

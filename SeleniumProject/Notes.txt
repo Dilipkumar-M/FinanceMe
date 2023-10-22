@@ -1,0 +1,7 @@
+1. Look at the pom.xml
+2. The driver version and your browser version should match.
+3. TestNG driver is added to the build section 
+4. testng.xml is added in src/main/java and the same is configured in pomx.ml build section 
+5. mvn test will now triger the test 
+
+Refer D:\code1\SeleniumProject\ folder to see how to trigger it directly from testng usng eclipse
